@@ -1,0 +1,33 @@
+Week 1
+Lab setup : Screen Recording
+
+Install screen recording software
+Create sample video for submission that captures you browsing the MCSI platform
+Browse to the videos
+Browse to the library
+Browse to the FAQ by clicking 'Need Help?' in the menu at the bottom of the page on the dashboard
+Browse to your MCSI Portoflio
+Bookmark an exercise
+Include the exercise title in your screen recording
+Upload the video to YouTube as an 'Unlisted' video
+
+Submissions :
+09/10/2022
+Screen recording on youtube(cant disclose)
+
+..............
+
+Lab Setup: Deploy A Virtual Machine In Virtualbox
+
+Download and install Virtual Box (or any alternative software e.g. VMware Workstation)
+Download and install the Kali Linux OVA file
+Download a Windows VM
+Setup a Windows virtual machine (VM)
+Configure the VMs to use the 'NAT Network' setting
+Validation: Demonstrate that you can ping the Kali VM with the Windows VM
+
+Submissions :
+09/10/22
+
+Youtube
+
