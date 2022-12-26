@@ -1,12 +1,12 @@
-24/10/22
+31/10/22
 
 #############
 Security Tools				Beginner
 #############
-Perform a TCP port scan using Nmap  					Novice		Done week3
-Perform a UDP port scan using Nmap  					Novice		Done week3
-Perform a vulnerability scan with OpenVAS				Novice		Done
-Use Metasploit to identify a machine vulnerable to MS17-010  		Novice		Done
+Perform a TCP port scan using Nmap  					Novice		
+Perform a UDP port scan using Nmap  					Novice		
+Perform a vulnerability scan with OpenVAS				Novice		
+Use Metasploit to identify a machine vulnerable to MS17-010  		Novice		
 Use Metasploit to exploit MS17-010					Novice		
 Escalate privileges to SYSTEM using Meterpreter’s command GETSYSTEM	Novice		
 Use Meterpreter to dump password hashes stored in the SAM 
