@@ -1,0 +1,19 @@
+26/12/22
+
+#############
+Security Tools				Beginner
+#############
+Perform a TCP port scan using Nmap  				Done Week7		Novice		
+Perform a UDP port scan using Nmap  				Done week7	Novice		
+Perform a vulnerability scan with OpenVAS			Done	Novice		
+Use Metasploit to identify a machine vulnerable to MS17-010  	Done	Novice		
+Use Metasploit to exploit MS17-010				Done week7	Novice		
+Escalate privileges to SYSTEM using Meterpreter’s command GETSYSTEM	Novice		
+Use Meterpreter to dump password hashes stored in the SAM 	inprogress
+database and LSASS 							Novice		
+Use TheHarvester.py to gather information about targets 	DOne week7	Novice		
+Use Metasploit's Port Forwarding capabilities to gain access to a
+machine that doesn't have direct Internet access 		Done	Advanced Beginner		
+Use Mimikatz to perform a Pass-The-Hash attack 			Inprogress	Advanced Beginner		
+
+################################
