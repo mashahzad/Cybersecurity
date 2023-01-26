@@ -1,0 +1,13 @@
+Penetration Testing 
+
+Beginner
+Google Hacking 							Novice		
+Write a web shell in PHP  					Novice		
+Write a PS script that installs an insecure Windows Service	Novice		
+Write a PS script that enables the AlwaysInstallElevated registry key									Novice		
+Write a PHP application with an exposed phpinfo.php page 	Novice		
+Write a application vulnerable to Arbitrary Command Execution	Novice		
+Execute arbitrary commands on a server via a SQL injection vulnerability	Advanced Beginner		
+Write a web application with insecure XSS filters	Advanced Beginner		
+Write a tool to brute authentication pages 		Advanced Beginner		
+Write a Web Application Penetration Testing Checklist		Competent		
