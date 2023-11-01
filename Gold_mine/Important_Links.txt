@@ -20,6 +20,7 @@ https://www.cyberdefensemagazine.com/e-magazines/
 https://www.virusbulletin.com/virusbulletin/
 https://cyberwarzone.com/
 https://nvd.nist.gov/
+https://cert.gov.sa/en/ --- Saudi version of NVD USA
 --------------------
 
 https://www.redhat.com/en/services/certification/rhce
