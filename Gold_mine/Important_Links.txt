@@ -3,13 +3,16 @@ https://app.hackthebox.com/
 https://www.pentesterlab.com/
 https://hashes.com/en/decrypt/hash
 https://contest.korelogic.com/
-https://www.netcraft.com/
+https://www.netcraft.com/ --- Website metadata tool
 https://www.youtube.com/@mdahshan/videos
-https://explainshell.com/
+https://explainshell.com/ --- Shell commands explainer
+https://www.passwordmonster.com/ ---Password Strength Checker
+https://www.security.org/how-secure-is-my-password/
 
-MOSSE INSTITUTE
+MOSSE INSTITUTE and KSU
 https://www.youtube.com/playlist?list=PLJgB-VjEB3Q5HJGO2eXjdDvOC6j-mQbM4
 https://library.mosse-institute.com/
+https://cyberhub.sa/
 -------------------
 
 ---NEWS, BLOGS AND RESOURCES---
@@ -21,7 +24,7 @@ https://nvd.nist.gov/
 
 https://www.redhat.com/en/services/certification/rhce
 
-COMPTIA
+COMPTIA Security plus
 https://www.comptia.org/certifications/security
 https://www.professormesser.com/
 https://www.udemy.com/course/securityplus/
