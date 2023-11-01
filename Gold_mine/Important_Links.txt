@@ -10,7 +10,7 @@ https://www.youtube.com/@mdahshan/videos
 https://explainshell.com/ --- Shell commands explainer
 https://www.passwordmonster.com/ ---Password Strength Checker
 https://www.security.org/how-secure-is-my-password/
-https://pinggy.io/ --- SSH TUNNEL FOR REMOTE ACCESS
+https://pinggy.io/ --- HTTP,TCP, TLS TUNNEL FOR REMOTE ACCESS
 
 
 MOSSE INSTITUTE and KSU
