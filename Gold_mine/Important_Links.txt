@@ -29,8 +29,23 @@ https://cert.gov.sa/en/ --- Saudi version of NVD USA
 
 https://www.redhat.com/en/services/certification/rhce
 
+Cisco
+Netacad.com
+Skillsforall.com
+https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
 COMPTIA Security plus
 https://www.comptia.org/certifications/security
 https://www.professormesser.com/
 https://www.udemy.com/course/securityplus/
 https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests
+
+
+Security Software
+
+Microsoft Active Directory (EntraID)
+Sentinel SIEM
+IBM QRadar
+Logrhythm
+Splunk
+wireshark, Scappy
