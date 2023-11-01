@@ -1,6 +1,8 @@
 -----Tools&Practicals----
 https://app.hackthebox.com/
 https://www.pentesterlab.com/
+https://www.hackerone.com/
+https://www.bugcrowd.com/ --- Pentest as a service
 https://hashes.com/en/decrypt/hash
 https://contest.korelogic.com/
 https://www.netcraft.com/ --- Website metadata tool
@@ -8,6 +10,8 @@ https://www.youtube.com/@mdahshan/videos
 https://explainshell.com/ --- Shell commands explainer
 https://www.passwordmonster.com/ ---Password Strength Checker
 https://www.security.org/how-secure-is-my-password/
+https://pinggy.io/ --- SSH TUNNEL FOR REMOTE ACCESS
+
 
 MOSSE INSTITUTE and KSU
 https://www.youtube.com/playlist?list=PLJgB-VjEB3Q5HJGO2eXjdDvOC6j-mQbM4
