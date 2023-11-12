@@ -1,0 +1,44 @@
+1> Messer
+
+2> Github page
+
+• Certificate formats
+- Distinguished encoding rules (DER)
+- Privacy enhanced mail (PEM)
+- Personal information exchange (PFX)
+- .cer
+- P12
+- P7B
+
+Log files:
+• syslog/rsyslog/syslog-ng
+• journalctl
+• NXLog
+• Bandwidth monitors
+
+• Netflow/sFlow
+- Netflow
+- sFlow
+- IPFIX
+
+TYPES OF CONTROL
+Category
+ - Managerial
+ - Operational
+ - Technical
+• Control type
+ - Preventive
+ - Detective
+ - Corrective
+- Deterrent
+- Compensating
+- Physical
+
+- International Organization
+ for Standardization (ISO)
+ 27001/27002/27701/31000
+- SSAE SOC 2 Type I/II
+
+3> Simulation test
+cer empire simulation
+DONE
