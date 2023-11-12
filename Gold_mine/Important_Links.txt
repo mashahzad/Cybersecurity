@@ -11,6 +11,7 @@ https://explainshell.com/ --- Shell commands explainer
 https://www.passwordmonster.com/ ---Password Strength Checker
 https://www.security.org/how-secure-is-my-password/
 https://pinggy.io/ --- HTTP,TCP, TLS TUNNEL FOR REMOTE ACCESS
+https://intelx.io/tools --- OSINT tool
 
 
 MOSSE INSTITUTE and KSU
