@@ -12,6 +12,9 @@ https://www.passwordmonster.com/ ---Password Strength Checker
 https://www.security.org/how-secure-is-my-password/
 https://pinggy.io/ --- HTTP,TCP, TLS TUNNEL FOR REMOTE ACCESS
 https://intelx.io/tools --- OSINT tool
+https://sandboxie-plus.com/ --- SandBox
+https://darkatlas.io/ --- (Apparently) A dark web monitoring platform
+https://www.nulled.to/
 
 
 MOSSE INSTITUTE and KSU
