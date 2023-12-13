@@ -15,6 +15,9 @@ https://intelx.io/tools --- OSINT tool
 https://sandboxie-plus.com/ --- SandBox
 https://darkatlas.io/ --- (Apparently) A dark web monitoring platform
 https://www.nulled.to/
+https://www.hacker101.com/
+https://bugbounty.sa/ --- bug bounty SA
+https://picoctf.org/ --- CTF, BugBounty activities, pentest
 
 
 MOSSE INSTITUTE and KSU
