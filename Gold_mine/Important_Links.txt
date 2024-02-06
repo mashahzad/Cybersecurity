@@ -1,4 +1,4 @@
-CTF-----Tools&Practicals----
+-----Tools&Practicals----
 https://app.hackthebox.com/
 https://www.pentesterlab.com/
 https://www.hackerone.com/
