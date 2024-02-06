@@ -22,6 +22,7 @@ https://picoctf.org/ --- CTF, BugBounty activities, pentest - Gamified CTF
 https://flagyard.com/ 
 https://pinggy.io/ --- localhost 
 https://www.tldrthis.com/ --- Summarize anything
+https://ready.mobi/ --- Mobile friendly web test
 
 
 MOSSE INSTITUTE and KSU
