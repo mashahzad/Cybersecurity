@@ -1,4 +1,4 @@
------Tools&Practicals----
+CTF-----Tools&Practicals----
 https://app.hackthebox.com/
 https://www.pentesterlab.com/
 https://www.hackerone.com/
@@ -18,7 +18,7 @@ https://darkatlas.io/ --- (Apparently) A dark web monitoring platform
 https://www.nulled.to/
 https://www.hacker101.com/
 https://bugbounty.sa/ --- bug bounty SA
-https://picoctf.org/ --- CTF, BugBounty activities, pentest
+https://picoctf.org/ --- CTF, BugBounty activities, pentest - Gamified CTF
 https://flagyard.com/ 
 https://pinggy.io/ --- localhost 
 https://www.tldrthis.com/ --- Summarize anything
