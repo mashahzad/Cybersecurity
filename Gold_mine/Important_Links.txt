@@ -20,7 +20,8 @@ https://www.hacker101.com/
 https://bugbounty.sa/ --- bug bounty SA
 https://picoctf.org/ --- CTF, BugBounty activities, pentest
 https://flagyard.com/ 
-https://pinggy.io/
+https://pinggy.io/ --- localhost 
+https://www.tldrthis.com/ --- Summarize anything
 
 
 MOSSE INSTITUTE and KSU
