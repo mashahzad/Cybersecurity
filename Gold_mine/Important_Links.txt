@@ -23,6 +23,7 @@ https://flagyard.com/
 https://pinggy.io/ --- localhost 
 https://www.tldrthis.com/ --- Summarize anything
 https://ready.mobi/ --- Mobile friendly web test
+https://iperf.fr/ --- A tool for active measurements of the maximum achievable bandwidth on IP networks
 
 
 MOSSE INSTITUTE and KSU
