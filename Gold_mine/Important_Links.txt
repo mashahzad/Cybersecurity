@@ -27,6 +27,7 @@ https://iperf.fr/ --- A tool for active measurements of the maximum achievable b
 https://pcpartpicker.com/
 https://pcbuilder.net/ --- Build a PC
 https://www.newegg.com/global/sa-en/tools/custom-pc-builder
+https://www.userbenchmark.com/ --- compare Graphic cards
 
 
 MOSSE INSTITUTE and KSU
