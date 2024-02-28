@@ -28,7 +28,9 @@ https://pcpartpicker.com/
 https://pcbuilder.net/ --- Build a PC
 https://www.newegg.com/global/sa-en/tools/custom-pc-builder
 https://www.userbenchmark.com/ --- compare Graphic cards
-https://www.netcraft.com/tools/ ---Nice website tools
+https://www.netcraft.com/tools/ --- Nice website tools
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/ --- Windows log message codes
+--- Down detector
 
 
 MOSSE INSTITUTE and KSU
