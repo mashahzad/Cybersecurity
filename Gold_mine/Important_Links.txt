@@ -30,7 +30,7 @@ https://www.newegg.com/global/sa-en/tools/custom-pc-builder
 https://www.userbenchmark.com/ --- compare Graphic cards
 https://www.netcraft.com/tools/ --- Nice website tools
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/ --- Windows log message codes
---- Down detector
+https://downdetector.com/ --- Down detector
 
 
 MOSSE INSTITUTE and KSU
