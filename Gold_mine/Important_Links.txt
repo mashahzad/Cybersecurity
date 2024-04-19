@@ -31,6 +31,7 @@ https://www.userbenchmark.com/ --- compare Graphic cards
 https://www.netcraft.com/tools/ --- Nice website tools
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/ --- Windows log message codes
 https://downdetector.com/ --- Down detector
+https://www.iplocation.net/ --- Ip location lookup
 
 
 ----AI Tools---
