@@ -37,6 +37,11 @@ https://www.iplocation.net/ --- Ip location lookup
 ----AI Tools---
 https://theresanaiforthat.com/
 
+----PentesterLab----
+Web pentesting tools
+
+
+
 MOSSE INSTITUTE and KSU
 https://www.youtube.com/playlist?list=PLJgB-VjEB3Q5HJGO2eXjdDvOC6j-mQbM4
 https://library.mosse-institute.com/
