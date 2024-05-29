@@ -39,8 +39,8 @@ https://theresanaiforthat.com/
 
 ----PentesterLab----
 Web pentesting tools
-Gobuster --- to find open access files using brute force
-
+https://github.com/OJ/gobuster - Gobuster --- to find open access files using brute force
+-------------------
 
 MOSSE INSTITUTE and KSU
 https://www.youtube.com/playlist?list=PLJgB-VjEB3Q5HJGO2eXjdDvOC6j-mQbM4
