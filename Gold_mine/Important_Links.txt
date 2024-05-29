@@ -39,7 +39,7 @@ https://theresanaiforthat.com/
 
 ----PentesterLab----
 Web pentesting tools
-
+Gobuster --- to find open access files using brute force
 
 
 MOSSE INSTITUTE and KSU
