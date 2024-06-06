@@ -40,6 +40,7 @@ https://theresanaiforthat.com/
 ----PentesterLab----
 Web pentesting tools
 https://github.com/OJ/gobuster - Gobuster --- to find open access files using brute force
+Patator, FFUF or WFuzz, burp suite - Bruteforce directories
 -------------------
 
 MOSSE INSTITUTE and KSU
