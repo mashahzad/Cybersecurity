@@ -34,6 +34,7 @@ https://downdetector.com/ --- Down detector
 https://www.iplocation.net/ --- Ip location lookup
 https://renode.io/ --- Iot devices run simulator
 https://temp-mail.org/en/ --- Temp domain email
+https://www.solarwinds.com/free-tools/advanced-subnet-calculator --- Online subnet calculator
 
 
 ----AI Tools---
