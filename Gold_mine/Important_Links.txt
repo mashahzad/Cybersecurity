@@ -35,6 +35,7 @@ https://www.iplocation.net/ --- Ip location lookup
 https://renode.io/ --- Iot devices run simulator
 https://temp-mail.org/en/ --- Temp domain email
 https://www.solarwinds.com/free-tools/advanced-subnet-calculator --- Online subnet calculator
+https://manytools.org/hacker-tools/steganography-encode-text-into-image/ --- Steganography encoder
 
 
 ----AI Tools---
