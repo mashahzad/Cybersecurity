@@ -36,7 +36,7 @@ https://renode.io/ --- Iot devices run simulator
 https://temp-mail.org/en/ --- Temp domain email
 https://www.solarwinds.com/free-tools/advanced-subnet-calculator --- Online subnet calculator
 https://manytools.org/hacker-tools/steganography-encode-text-into-image/ --- Steganography encoder
-
+https://javl.github.io/image2cpp/ --- img to array
 
 ----AI Tools---
 https://theresanaiforthat.com/
@@ -46,6 +46,7 @@ Web pentesting tools @ PentesterLab
 https://github.com/OJ/gobuster - Gobuster --- to find open access files using brute force
 Patator, FFUF or WFuzz, burp suite --- Bruteforce directories
 Aquatone --- for visual reconnisance
+
 -------------------
 
 MOSSE INSTITUTE and KSU
