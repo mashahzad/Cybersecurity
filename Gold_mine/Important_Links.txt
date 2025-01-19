@@ -37,6 +37,8 @@ https://temp-mail.org/en/ --- Temp domain email
 https://www.solarwinds.com/free-tools/advanced-subnet-calculator --- Online subnet calculator
 https://manytools.org/hacker-tools/steganography-encode-text-into-image/ --- Steganography encoder
 https://javl.github.io/image2cpp/ --- img to array
+https://www.omnicalculator.com/other/download-time --- download time calc
+https://github.com/anishathalye/periscope --- duplicate data in drive
 
 ----AI Tools---
 https://theresanaiforthat.com/
