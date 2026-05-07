@@ -93,6 +93,6 @@ https://github.com/danphenderson/leetcode-solutions
 
 -----open Threat Intelligence Exch------
 https://otx.alienvault.com/
-https://exchange.xforce.ibmcloud.com/
+https://exchange.xforce.ibmcloud.com/ --Ibm
 https://www.recordedfuture.com/products/threat-intelligence
 
