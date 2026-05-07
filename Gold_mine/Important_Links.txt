@@ -79,7 +79,7 @@ https://www.udemy.com/course/securityplus/
 https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests
 
 
-Security Software
+Security SIE Software
 
 Microsoft Active Directory (EntraID)
 Sentinel SIEM
@@ -90,3 +90,9 @@ wireshark, Scappy
 
 Leetcode Exercises
 https://github.com/danphenderson/leetcode-solutions
+
+-----open Threat Intelligence Exch------
+https://otx.alienvault.com/
+https://exchange.xforce.ibmcloud.com/
+https://www.recordedfuture.com/products/threat-intelligence
+
